@@ -1,0 +1,11 @@
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\bin\Debug\LaptopHotspot.exe
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\bin\Debug\LaptopHotspot.exe.config
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.LaptopHotspotController.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.Properties.Resources.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.csproj.GenerateResource.Cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.exe
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\bin\Debug\LaptopHotspot.pdb
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.csprojResolveAssemblyReference.cache
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.setupHostedNetwork_popup.resources
+D:\Users\Jóhann Østerø_2\Projects\Mini projects\Programming\LaptopHotspot\LaptopHotspot\LaptopHotspot\obj\Debug\LaptopHotspot.SetupHelpPopup.resources
